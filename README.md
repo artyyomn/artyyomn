@@ -5,7 +5,6 @@ Chief Facilitator of Proactive Reactivity for the enablement of cross-functional
 ### Currently Learning
 - Segfault diplomacy (negotiating with core dumps)
 - Sockets (the network kind, not the wall kind)
-- Quarterly planning as a form of speculative fiction
 - Vim and Emacs simultaneously (a ceasefire, not a peace)
 - Pointers, to things and also at things
 - Reading RFCs recreationally
