@@ -1,11 +1,15 @@
-####  Systems · Backend · Embedded
+### Experience
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+Chief Facilitator of Proactive Reactivity for the enablement of cross-functional deliverable adjacency within the Federated Institute of Strategic Latency. Former Senior Associate Director of Asynchronous Synchronicity at the Bureau of Holistic Throughput and Quarterly Segfaults. Interim Acting Lead of Leads at LeadCorp (a division of CorpLead). Wrote the actual code at all of the above, which was the only position with a verifiable output.
 
-I'm a Computer Science student with an inclination toward systems that reward curiosity at the boundary between abstraction and implementation. My interests gravitate toward operating systems, backend infrastructure, embedded systems, networking, and the occasional exercise in understanding how software behaves when the abstractions are peeled away.
-
-I spend most of my time writing software, dismantling things I do not understand, and occasionally rebuilding them badly enough to understand them better.
-
+### Currently Learning
+- Segfault diplomacy (negotiating with core dumps)
+- Jira archaeology (carbon-dating tickets from the Mesozoic sprint)
+- Sockets (the network kind, not the wall kind)
+- kill -9 as a conflict resolution framework
+- Quarterly planning as a form of speculative fiction
+- Vim and Emacs simultaneously (a ceasefire, not a peace)
+- Goroutines (the lightweight kind, not the ones on my calendar)
+- Pointers, to things and also at things
+- Reading RFCs recreationally
+- Grep (it has never once asked me to align)
